@@ -117,6 +117,7 @@ export const blog = [
     cover: "../images/blogs/b5.jpg",
     date: "February 20, 2018",
   },
+  
   {
     id: 6,
     title: "TEACH YOUR DRAGON HOW TO FLY",
