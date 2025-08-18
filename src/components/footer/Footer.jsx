@@ -12,7 +12,7 @@ export const Footer = () => {
           <div className='social'>
             <BsFacebook className='icon' />
             <RiInstagramFill className='icon' />
-            <AiFillTwitterCircle className='icon' />
+           <AiFillTwitterCircle className='icon' />
             <AiFillLinkedin className='icon' />
           </div>
         </div>

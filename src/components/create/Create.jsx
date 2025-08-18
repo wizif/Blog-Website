@@ -23,5 +23,5 @@ export const Create = () => {
         </div>
       </section>
     </>
-  )
+  ) 
 }
