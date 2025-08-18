@@ -1,20 +1,24 @@
 .accountInfo {
   margin: 115px 0;
 }
+
 .accountInfo .container {
   padding: 50px;
   max-width: 60%;
   margin: auto;
 }
+
 .accountInfo .content {
   margin-top: 80px;
   display: flex;
   justify-content: flex-start;
 }
+
 .accountInfo .left {
   width: 150px;
   position: relative;
 }
+
 .accountInfo .right {
   width: calc(100% - 180px);
   margin-left: 50px;
@@ -27,6 +31,7 @@
   z-index: 2;
   opacity: 0;
 }
+
 .accountInfo .img img {
   position: absolute;
   top: 0;
